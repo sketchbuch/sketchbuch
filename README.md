@@ -1,12 +1,8 @@
 ![Sketchbuch's Stats](https://github-readme-stats.vercel.app/api?username=sketchbuch&count_private=true&show_icons=true&hide_title=true)
 
-### Contact me
-
-[![Xing Profile](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Stephen_Bungert/cv)
-[![LinkedIn Profile](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-bungert-ab3985256/)
-
 ### Interested in
 
+[![Accessibility](https://img.shields.io/static/v1?label=&message=Accessibility&color=2ea44f&style=for-the-badge)](https://github.com/sketchbuch?tab=repositories&q=accessibility&type=&language=&sort=)
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://github.com/sketchbuch?tab=repositories&q=&type=&language=dart&sort=)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/sketchbuch?tab=repositories&q=&type=&language=javascript&sort=)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/sketchbuch?tab=repositories&q=react&type=&language=javascript&sort=)
