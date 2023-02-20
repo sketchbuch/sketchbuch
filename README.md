@@ -1,6 +1,4 @@
-<div style="float:right; margin-left: 5px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sketchbuch&count_private=true&show_icons=true&hide_title=true" />
-</div>
+![Sketchbuch's Stats](https://github-readme-stats.vercel.app/api?username=sketchbuch&count_private=true&show_icons=true&hide_title=true)
 
 ### Contact me
 
