@@ -14,6 +14,7 @@
 ### Interested in
 
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://github.com/sketchbuch?tab=repositories&q=&type=&language=dart&sort=)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/sketchbuch?tab=repositories&q=&type=&language=javascript&sort=)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/sketchbuch?tab=repositories&q=react&type=&language=javascript&sort=)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/sketchbuch?tab=repositories&q=&type=&language=typescript&sort=)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/sketchbuch?tab=repositories&q=vscode&type=&language=&sort=)
