@@ -1,11 +1,7 @@
-<h1 style="height:1px; left:-10000px; overflow:hidden; position:absolute; top:auto; width:1px;">Sketchbuch's Github Profile</h1>
-
 <div align="center">
   <img alt="GitHub Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=sketchbuch&count_private=true&show_icons=true&hide_title=true" />
   <img alt="Most used programming languages"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sketchbuch&count_private=true&show_icons=true&hide_title=true" />
 </div>
-
----
 
 <div align="center">
   <h2 align="center">Interested In</h2>
@@ -17,8 +13,6 @@
   [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/sketchbuch?tab=repositories&q=&type=&language=typescript&sort=)
   [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/sketchbuch?tab=repositories&q=vscode&type=&language=&sort=)
 </div>
-
----
 
 <div align="center">
   <h2 align="center">Where To Find me</h2>
