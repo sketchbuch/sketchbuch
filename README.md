@@ -1,6 +1,6 @@
 <div align="center">
   <img alt="GitHub Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=sketchbuch&count_private=true&show_icons=true&hide_title=true&ring_color=717390&icon_color=717390" />
-  <img alt="Most used programming languages"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sketchbuch&count_private=true&show_icons=true&hide_title=true&layout=compact" />
+  <img alt="Most used programming languages"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sketchbuch&count_private=true&show_icons=true&hide_title=true" />
 </div>
 
 <div align="center">
