@@ -19,9 +19,10 @@
 
   [![LinkedIn Profile](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-bungert-ab3985256/)
   [![XING Profile](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Stephen_Bungert/cv)
-  [![VSCode Marketplace Profile](https://img.shields.io/static/v1?label=&message=VSCode&nbsp;Marketplace&nbsp;Profile&color=0078d7&style=for-the-badge)](https://marketplace.visualstudio.com/publishers/sketchbuch)
+  [![VSCode Marketplace Profile](https://img.shields.io/static/v1?label=&message=VSCode&nbsp;Marketplace&color=0078d7&style=for-the-badge)](https://marketplace.visualstudio.com/publishers/sketchbuch)
   [![NPM Profile](https://img.shields.io/static/v1?label=&message=NPM&nbsp;Profile&color=cb3837&style=for-the-badge)](https://www.npmjs.com/~sketchbuch)
-  [![Exploring Accessibility Youtube Channel](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&label=ExploringAccessibility)](https://www.youtube.com/@ExploringAccessibility)
+  [![OpenVSX Profile](https://img.shields.io/static/v1?label=&message=NPM&nbsp;OpenVSX Marketplace&color=cb3837&style=for-the-badge)](https://www.npmjs.com/~sketchbuch)
+  [![Exploring Accessibility Youtube Channel](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&label=Exploring&nbsp;Accessibility)](https://www.youtube.com/@ExploringAccessibility)
 </div>
 
 <!-- Badges: https://github.com/Ileriayo/markdown-badges -->
