@@ -28,7 +28,8 @@
   [![VSCode Marketplace Profile](https://img.shields.io/static/v1?label=&message=VSCode&nbsp;Marketplace&color=0078d7&style=for-the-badge)](https://marketplace.visualstudio.com/publishers/sketchbuch)
   [![NPM Profile](https://img.shields.io/static/v1?label=&message=NPM&nbsp;Profile&color=cb3837&style=for-the-badge)](https://www.npmjs.com/~sketchbuch)
   [![OpenVSX Profile](https://img.shields.io/static/v1?label=&message=OpenVSX&nbsp;Marketplace&color=a60ee5&style=for-the-badge)](https://open-vsx.org/namespace/sketchbuch)
-  [![Exploring Accessibility Youtube Channel](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&label=Exploring&nbsp;Accessibility)](https://www.youtube.com/@ExploringAccessibility)
+  [![Exploring Accessibility YouTube Channel](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&label=Exploring&nbsp;Accessibility)](https://www.youtube.com/@ExploringAccessibility)
+  [![Sketchbuch YouTube Channel](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&label=Sketchbuch)](https://www.youtube.com/@SketchbuchDev)
 </div>
 
 <!-- Badges: https://github.com/Ileriayo/markdown-badges -->
