@@ -30,7 +30,9 @@
   [![OpenVSX Profile](https://img.shields.io/static/v1?label=&message=OpenVSX&nbsp;Marketplace&color=a60ee5&style=for-the-badge)](https://open-vsx.org/namespace/sketchbuch)
   [![Exploring Accessibility YouTube Channel](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&label=Exploring&nbsp;Accessibility)](https://www.youtube.com/@ExploringAccessibility)
   [![Sketchbuch YouTube Channel](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&label=Sketchbuch)](https://www.youtube.com/@SketchbuchDev)
+  [![Steam Profile](https://img.shields.io/badge/Steam-Ping%20Crosby-blue?style=for-the-badge&logo=steam)](https://steamcommunity.com/profiles/76561198086533322)
 </div>
+
 
 <!-- Badges: https://github.com/Ileriayo/markdown-badges -->
 
